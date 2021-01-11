@@ -22,8 +22,8 @@ Feel free to see the example and play around with the files
 1. Create a folder anywhere in your pc then open terminal and Clone this repo
 
    ```bash
+   git clone https://github.com/Salweyar/React-firebase-moreProjects.git
    cd projectName
-   git clone 
    ```
    
 3. Open index.html and edit the part
